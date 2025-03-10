@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <style>
+        div{
+            color: red;
+            background-color: yellow;
+        }
+
+        span{
+            color: red;
+            background-color: yellow
+        }
+        p{
+            color: rgb(19, 80, 80);
+            background-color: rgb(179, 145, 193);
+        }
+    </style>
+</head>
+<body>
+    <div> Hey I'm Chirag</div>
+
+    <div>1st Video Of CSS</div>
+
+    <span>Content Of CSS</span>
+
+    <p>CSS (Cascading Style Sheets) is a stylesheet language used to control the presentation of HTML elements on a webpage. It defines how elements should appear, including their layout, colors, fonts, spacing, and animations.  
+
+        Main Contents of CSS:
+        
+        1. Selectors  
+           These target specific HTML elements to apply styles. Selectors can be based on element names, class names, IDs, or attributes.  
+        
+        2. Properties and Values 
+           Every CSS rule consists of properties (such as color, font-size, and margin) and values (such as red, 16px, or auto) that define the appearance of an element.  
+        
+        3. Types of CSS 
+           CSS can be written in different ways:  
+           - Inline CSS, directly within an HTML element.  
+           - Internal CSS, within a `<style>` tag inside the HTML `<head>`.  
+           - External CSS, in a separate file linked to the HTML document.  
+        
+        4. Box Model  
+           This concept defines how elements are displayed with respect to spacing. It includes content, padding, border, and margin, which determine the overall size and positioning of an element.  
+        
+        5. Positioning and Layout  
+           CSS provides different ways to position elements, such as static, relative, absolute, fixed, and sticky positioning. Additionally, layout techniques like Flexbox and Grid help in organizing content efficiently.  
+        
+        6. Responsive Design  
+           CSS allows web pages to adapt to different screen sizes using media queries. This ensures a website looks good on desktops, tablets, and mobile devices.  
+        
+        7. Animations and Transitions  
+           CSS enables smooth animations and transitions to enhance user experience by gradually changing element properties like color, size, or position.  
+        
+        </p>
+</body>
+</html>
